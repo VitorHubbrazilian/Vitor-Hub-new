@@ -1,8 +1,8 @@
 repeat
     wait()
 until game.Players.LocalPlayer
-local a = "https://raw.githubusercontent.com/VitorHubbrazilian/Vitor-Hub-new/refs/heads/main/README.md"
-local a = "loadstring(game:HttpGet("https://raw.githubusercontent.com/VitorHubbrazilian/Vitor-Hub-new/refs/heads/main/README.md"))()
+local a = ""
+local a = "loadstring(game:HttpGet())()
 local a = a:Window("BloxFruit")
 local Set = a:Tab("Settings Farm ", "rbxassetid://18899804355")
 local Main = a:Tab("Auto Farm", "rbxassetid://18899804355")
